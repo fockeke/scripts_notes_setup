@@ -1,0 +1,4 @@
+module load icc/19.1.053
+module load ifort/19.1.053
+module load openmpi-intel19/3.1.4 
+module load dalton/2020.0
